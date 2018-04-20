@@ -128,6 +128,7 @@ public class Solucion {
     public static void main(String...argv) {
 	LOG.info("Se hacen las pruebas a Nodo.prn() y Nodo.gus() a traves del metodo main ");
         new Solucion().ok();
+	//Comentario para generar merge conflict
     }
 
 }
