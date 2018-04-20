@@ -126,7 +126,7 @@ public class Solucion {
      * Metodo main de la clase, en el se ejecuta el metodo ok()
      */
     public static void main(String...argv) {
-	//Comentario para conflicto de merge
+	//Cambio esto para el conflicto
 	LOG.info("Se hacen las pruebas a Nodo.prn() y Nodo.gus() a traves del metodo main ");
         new Solucion().ok();
     }
